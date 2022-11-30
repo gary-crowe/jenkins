@@ -1,4 +1,4 @@
 ---
 collections:
-# With just the collection name
 - name: darkwizard242.cis_ubuntu_2004
+  src: https://github.com/darkwizard242/cis_ubuntu_2004
